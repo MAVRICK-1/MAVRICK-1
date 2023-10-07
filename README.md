@@ -1,31 +1,187 @@
-<h1 align="center">Hi 👋, I'm Rishi Mondal</h1>
-<h3 align="center">A passionate frontend developer and Coder of India</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/embed/RbDKaczqWovIugyJmW">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mavrick-1&label=Profile%20views&color=0e75b6&style=flat" alt="mavrick-1" /> </p>
+<!--- assets are created on Canva --->
+<!--- Feel free to download the assets and use them in your profile --->
+<!--- to upload an asset, create an issue on any of your repositories and add files, the link will be generated --->
+
+
+<!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
+  
+<!---
+
+
+
+--->
+  
+<!--- header image --->
 
 <div align="center">
   
 <p align="left">
-  <img alt="" style="{max-height: 0px}" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg">
+  <img alt="" style="{max-height: 0px}" src="">
 </p>
 
-- 🌱 I’m currently learning **Frameworks,Deep Learning.**
+  
+<!--- portfolio launch image --->
+  
+<a href="http://MAVRICK-1.github.io">
+  
+  <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
+  
+  ![](https://komarev.com/ghpvc/?username=MAVRICK-1&color=blueviolet&label=Profile+Views)
+</a>
 
-- 👯 I’m looking to collaborate on **Machine Learning**
+  
+<!--- social media icons, you can find them in the assets directory of this repo --->
+  
+<a href="#">
+    <img height="55" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
+</a>
 
-- 📫 How to reach me **mavrickrishi@gmail.com**
+<a href="#">
+    <img height="55" src="https://user-images.githubusercontent.com/60597290/152035929-b7f75d38-e1c2-4325-a97e-7b934b8534e2.png" />
+</a>
+  
+<a href="#" target="_blank">
+  <img height="55" alt="Rishi Mondal | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
+</a>
+  
+<a href="#">
+    <img height="55" src="https://user-images.githubusercontent.com/60597290/152042608-2ae071b9-2a64-49be-a49d-f830152cf8d4.png" />
+</a>
+  
+<a href="#" target="_blank">
+  <img height="55" alt="Rishi Mondal | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/152035786-d00aa1c3-56af-4d45-8a3c-15846d1a123d.png" />
+</a>
+</a>
 
-- ⚡ Fun fact **I think I am Funny**
+  <img height="55" alt=" | Facebook" src="https://user-images.githubusercontent.com/60597290/152035015-605f666e-bfe9-4723-a900-0b1e2790b8f1.png" />
+</a>
+  
+<a href="https://www.instagram.com/ossamamehmood" target="_blank">
+  <img height="55" alt="Ossama Mehmood | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/rishi mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishi mondal" height="30" width="40" /></a>
-<a href="https://instagram.com/realmavrick_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="realmavrick_1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rishimavrick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rishimavrick" height="30" width="40" /></a>
+  
+<!--- a bit of vertical space & languages text --->
+  
+<div>&nbsp;</div>
+  
+<img height="65" alt="Rishi Mondal | Facebook" src="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" />
+
+<div></div>
+  
+  
+<!--- language icons --->
+  
+  
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152359293-4c3dc461-2be7-4d75-b5e3-6244637020e1.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152362823-eb0e032a-5c84-4832-803c-c77bf5b558a0.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152361790-b7faad3d-5f95-468a-aa51-e38f39419ec4.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152363164-01140f44-5328-4ea3-8d95-fec21af7e295.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152366195-2a7a5be2-acc8-485c-9908-861bcfaa3f2b.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152366251-81e7024b-81c6-422c-ae71-ad035850d030.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152366230-0d5c915e-b212-49cc-b5d5-00d50b1493f6.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152366154-ec1ddf07-fcf8-41f5-a5f8-ccfc331622a2.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152366741-4ebfc910-49b4-4365-829d-89f9a5873ff5.png" />
+  
+  
+&nbsp;
+<!-- <h1 align="center">
+  ABOUT ME
+</h1>
+  
+<img width="130" height="150" src="https://raw.githubusercontent.com/ossamamehmood/ossamamehmood/main/assets/icons/about.png" />
+   -->
+
+  
+  <!--- Personal --->  
+  
+<h1 align="center">
+    Personal 
+    </h2>
+
+On a Mission `To be the best` .
+  
+Building `Elegant` Open Source Repository and Projects.
+  
+Bloodline `Creative, Reflective & Introspective` Designer.
+  
+Aspire `Broke` those with `Excellence` who try to mess up `Soft Heart`.
+  
+Smarting `Ignorance/absence` those who lose diamond.
+  
+Believe `in Hard Work` Exclusively and Unconditionally.
+  
+  
+  <!--- Education --->  
+  
+  
+<h1 align="center">
+    Education 
+    </h2>
+
+  Third Semester - `Bachelor` in `Computer Science ` - Makaut University West Bengal
+  
+  `Intermediate` in `Computer Science` `(TIH)` - Techno College Hooghly 
+  
+  `Secondary School` Certificate `(SSC)` or `Matriculation` Examination - Ideal Public School
+
+  <!--- Portfolio/Website --->  
+<!---
+<h1 align="center">
+    Portfolio/Website
+    </h2>
+  
+  `Personal Website` -> <a href="https://ossamamehmood.github.io" target="_blank">`Ossama Mehmood`</a>
+  
+  `Behance (Portfolio)` -> <a href="https://www.behance.net/ossamamehmood" target="_blank">`Ossama Mehmood`</a>
+
+  `Figma (UI/UX)` -> <a href="https://www.figma.com/@ossamamehmood" target="_blank">`Ossama Mehmood`</a>
+  
+  `Linktree` -> <a href="https://linktr.ee/ossamamehmood" target="_blank">`Ossama Mehmood`</a>
+  
+  --->
+  <!--- Buy Me a Coffee ☕ ---> 
+  
+<!--- <h3 align="center"></h3>
+<p><a href="https://www.buymeacoffee.com/ossamamehmood"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="40" width="160" alt="oss amehmood" /></a><a href="https://ko-fi.com/ossamamehmood">
+<img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="160" alt="ossamamehmood" /></a></p> --->
+
+  
+  <!--- adding 3D earth icon to show some love for the environment 🌏 --->
+  
+<img height="40" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
+  
+<p align="center">
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=mavrick-1&" alt="mavrick-1" />
+  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://tse1.mm.bing.net/th?id=OIP.F6r9QQCelEOLZDL9vn74DwHaHa&pid=Api&P=0&h=180" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mavrick-1&" alt="mavrick-1" /></p>
+<!--- Recent Activity ☂️ ---> 
 
+<h1 align="center">
+    Recent Activity ☂️
+    </h2>
+<table align="center">
+  <tr>
+    <div style="text-align: center;">
+    <td align="left">
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+ </td>
+   </div>
+  </tr>
+</table>
+
+
+<!--- Github snack contribution graph --->
+  
+<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+
+<!--- building footer with spaceship question --->
+  
+![footer](https://user-images.githubusercontent.com/60597290/152518980-fa55fbc8-81fe-4bba-bf52-21320455e217.png)
+<img height="50" src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" />
+  
+ </div>
