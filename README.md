@@ -12,6 +12,7 @@
 --->
   
 <!--- header image --->
+![banner](https://github.com/MAVRICK-1/MAVRICK-1/assets/146999057/e0d3748e-a7fe-4bf0-ba79-6f372265eab3)
 
 <div align="center">
   
