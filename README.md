@@ -8,7 +8,6 @@
 <p align="left">
   <img alt="" style="{max-height: 0px}" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg">
 </p>
-</div>
 
 - 🌱 I’m currently learning **Frameworks,Deep Learning.**
 
