@@ -3,7 +3,12 @@
 <img align="right" alt="coding" width="400" src="https://giphy.com/embed/RbDKaczqWovIugyJmW">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavrick-1&label=Profile%20views&color=0e75b6&style=flat" alt="mavrick-1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="center">
+  
+<p align="left">
+  <img alt="" style="{max-height: 0px}" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg">
+</p>
+</div>
 
 - 🌱 I’m currently learning **Frameworks,Deep Learning.**
 
