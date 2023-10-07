@@ -56,8 +56,8 @@
   <img height="55" alt=" | Facebook" src="https://user-images.githubusercontent.com/60597290/152035015-605f666e-bfe9-4723-a900-0b1e2790b8f1.png" />
 </a>
   
-<a href="https://www.instagram.com/ossamamehmood" target="_blank">
-  <img height="55" alt="Ossama Mehmood | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
+<a href="https://www.instagram.com/realmavrick_1/?hl=en" target="_blank">
+  <img height="55" alt="Rishi Mondal | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
 </a>
 
   
