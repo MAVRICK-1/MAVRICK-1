@@ -51,7 +51,7 @@
 <a href="#" target="_blank">
   <img height="55" alt="Rishi Mondal | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/152035786-d00aa1c3-56af-4d45-8a3c-15846d1a123d.png" />
 </a>
-</a>
+<a href="#>
 
   <img height="55" alt=" | Facebook" src="https://user-images.githubusercontent.com/60597290/152035015-605f666e-bfe9-4723-a900-0b1e2790b8f1.png" />
 </a>
