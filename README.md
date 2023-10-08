@@ -157,7 +157,7 @@ Believe `in Hard Work` Exclusively and Unconditionally.
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=mavrick-1&" alt="mavrick-1" />
   
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavrick-1&show_icons=true&locale=en&layout=compact" alt="mavrick-1" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavrick-1&show_icons=true&locale=en&layout=compact" alt="mavrick-1" /></p>
 
 
 <!--- Recent Activity ☂️ ---> 
