@@ -93,6 +93,8 @@
   
 <img width="130" height="150" src="https://raw.githubusercontent.com/ossamamehmood/ossamamehmood/main/assets/icons/about.png" />
    -->
+   [![An image of @mavrick1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mavrick1)](https://holopin.io/@mavrick1)
+
 
   
   <!--- Personal --->  
