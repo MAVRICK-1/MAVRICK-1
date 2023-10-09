@@ -13,6 +13,7 @@
   
 <!--- header image --->
 ![banner](https://github.com/MAVRICK-1/MAVRICK-1/assets/146999057/e0d3748e-a7fe-4bf0-ba79-6f372265eab3)
+[![An image of @mavrick1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mavrick1)](https://holopin.io/@mavrick1)
 
 <div align="center">
   
@@ -93,7 +94,6 @@
   
 <img width="130" height="150" src="https://raw.githubusercontent.com/ossamamehmood/ossamamehmood/main/assets/icons/about.png" />
    -->
-   [![An image of @mavrick1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mavrick1)](https://holopin.io/@mavrick1)
 
 
   
