@@ -60,7 +60,7 @@
 </a>
   
 <a href="https://www.instagram.com/realmavrick_1/?hl=en" target="_blank">
-  <img height="55" alt="Rishi Mondal | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
+  <img height="55" alt="Rishi Mondal | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" target="-blank">
 </a>
 
   
