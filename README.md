@@ -157,10 +157,10 @@ Believe `in Hard Work` Exclusively and Unconditionally.
   
 <p align="center">
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=mavrick-1&" alt="mavrick-1" />
+   <a href="https://github.com/MAVRICK-1"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MAVRICK-1&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   
 </p>
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavrick-1&show_icons=true&locale=en&layout=compact" alt="mavrick-1" /></p>
-
 
 <!--- Recent Activity ☂️ ---> 
 
@@ -178,6 +178,7 @@ Believe `in Hard Work` Exclusively and Unconditionally.
    </div>
   </tr>
 </table>
+
 
 
 <!--- Github snack contribution graph --->
