@@ -165,7 +165,7 @@ Believe `in Hard Work` Exclusively and Unconditionally.
 <!--- Recent Activity ☂️ ---> 
 
 <h1 align="center">
-    Recent Activity ☂️
+<!--     Recent Activity ☂️ -->
     </h2>
 <table align="center">
   <tr>
