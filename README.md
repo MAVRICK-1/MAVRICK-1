@@ -42,7 +42,7 @@
     <img height="55" src="https://user-images.githubusercontent.com/60597290/152035929-b7f75d38-e1c2-4325-a97e-7b934b8534e2.png" />
 </a>
   
-<a href="https://www.linkedin.com/in/rishi-mondal-5238b2282/" target="_blank">
+<a href="#" target="_blank">
   <img height="55" alt="Rishi Mondal | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
 </a>
   
