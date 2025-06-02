@@ -74,8 +74,10 @@
   
   
 <!--- language icons --->
-  
-  
+
+
+
+<img src="https://api.badgr.io/public/assertions/F-qV00wkR4unp40ZEdoLaA/image" alt="Open Badge - Rishi Mondal" height="100">
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152359293-4c3dc461-2be7-4d75-b5e3-6244637020e1.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152362823-eb0e032a-5c84-4832-803c-c77bf5b558a0.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152361790-b7faad3d-5f95-468a-aa51-e38f39419ec4.png" />
