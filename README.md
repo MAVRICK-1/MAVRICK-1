@@ -79,7 +79,7 @@
 
 <img src="https://api.badgr.io/public/assertions/F-qV00wkR4unp40ZEdoLaA/image" alt="Open Badge - Rishi Mondal" height="100">
  <a href="https://cloud.layer5.io/user/59d69301-e969-45b4-bfa2-6e52726e82de?tab=badges&badge=certified-meshery-contributor">
-    <img  height="180" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor"/>
+    <img height="180" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor"/>
   </a>
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152359293-4c3dc461-2be7-4d75-b5e3-6244637020e1.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152362823-eb0e032a-5c84-4832-803c-c77bf5b558a0.png" />
